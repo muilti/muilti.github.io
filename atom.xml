@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muilti.github.io</id>
     <title>Mikko</title>
-    <updated>2020-07-19T01:03:11.084Z</updated>
+    <updated>2020-07-19T01:31:48.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://muilti.github.io"/>
     <link rel="self" href="https://muilti.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://muilti.github.io/images/avatar.png</logo>
     <icon>https://muilti.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mikko</rights>
+    <entry>
+        <title type="html"><![CDATA[关于Gridea远程连接成功但是同步失败的问题]]></title>
+        <id>https://muilti.github.io/post/guan-yu-gridea-yuan-cheng-lian-jie-cheng-gong-dan-shi-tong-bu-shi-bai-de-wen-ti/</id>
+        <link href="https://muilti.github.io/post/guan-yu-gridea-yuan-cheng-lian-jie-cheng-gong-dan-shi-tong-bu-shi-bai-de-wen-ti/">
+        </link>
+        <updated>2020-07-19T01:17:52.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://muilti.github.io/post-images/1595121759486.png" alt="" loading="lazy"><br>
+首先，打开gridea客户端<br>
+<img src="https://muilti.github.io/post-images/1595121826983.png" alt="" loading="lazy"><br>
+打开开发者工具，检查错误信息，我的是 http error 404 dont found<br>
+然后打开github，首页新建一个token注意这里要勾选上下面所有的选项<br>
+<img src="https://muilti.github.io/post-images/1595121999261.png" alt="" loading="lazy"><br>
+然后再复制你的token 换掉之前那一个看看，能不能同步，试了很多遍还是这样才成功的！</p>
+<p>如果还是不行跳转到 https://github.com/getgridea/gridea/issues/588 里面能解决大部分的问题，哈。</p>
+<pre><code>                                                                      Mikko
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://muilti.github.io/post/hello-gridea/</id>
