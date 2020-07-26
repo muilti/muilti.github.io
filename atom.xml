@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muilti.github.io</id>
     <title>Mikko</title>
-    <updated>2020-07-22T03:31:05.821Z</updated>
+    <updated>2020-07-26T01:29:39.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://muilti.github.io"/>
     <link rel="self" href="https://muilti.github.io/atom.xml"/>
@@ -11,26 +11,13 @@
     <icon>https://muilti.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mikko</rights>
     <entry>
-        <title type="html"><![CDATA[利用社工库机器人查询微博用户绑定的手机号]]></title>
-        <id>https://muilti.github.io/post/li-yong-she-gong-ku-ji-qi-ren-cha-xun-wei-bo-yong-hu-bang-ding-de-shou-ji-hao/</id>
-        <link href="https://muilti.github.io/post/li-yong-she-gong-ku-ji-qi-ren-cha-xun-wei-bo-yong-hu-bang-ding-de-shou-ji-hao/">
+        <title type="html"><![CDATA[Adobe系列，ae ps ai c4d pr]]></title>
+        <id>https://muilti.github.io/post/adobe-xi-lie-ae-ps-ai-c4d-pr/</id>
+        <link href="https://muilti.github.io/post/adobe-xi-lie-ae-ps-ai-c4d-pr/">
         </link>
-        <updated>2020-07-22T02:04:12.000Z</updated>
-        <content type="html"><![CDATA[<p>首先你的有个梯子，下载电报（telegram）https://pan.baidu.com/s/1m0ueH4Ym-YZEfjjQ9SXbKw  提取码:oe24<br>
-然后打开电报，注册这里必须的挂梯子<br>
-<img src="https://muilti.github.io/post-images/1595384807017.jpg" alt="" loading="lazy"><br>
-这里注册完成后就是这样一个界面，点击右下角的那个🖊<br>
-<img src="https://muilti.github.io/post-images/1595384849624.jpg" alt="" loading="lazy"><br>
-直接搜索框输入 hao1234bot 会出来一个机器人<br>
-点击开始，聊天栏输入“中文”<br>
-<img src="https://muilti.github.io/post-images/1595385071164.png" alt="" loading="lazy"><br>
-点击第一个，会进入一个群，直接点击它的置顶文件<br>
-<img src="https://muilti.github.io/post-images/1595385122550.jpg" alt="" loading="lazy"><br>
-会出现一个弹框，点击CHANGE，这时候界面就变成中的了<br>
-接下来 在机器人里面搜索 sgk123bot<br>
-这时候直接打开微博进入要查的人主页(这里推荐chrome浏览器)鼠标右键点击查看网页源代码<br>
-让后CTRL+F查找oid 这个时候第一天索引信息便是这个微博用户的微博号，复制oid后面的一串数字，打开我们的电报，在刚刚添加的社工库机器人里面输入进去就好了，当然这个只是这个微博用户注册的手机号是不是本人正在用的就不知道了！！！<br>
-<strong>以上内容只提供方法，任何东西都是双刃剑.</strong></p>
+        <updated>2020-07-26T01:27:21.000Z</updated>
+        <content type="html"><![CDATA[<p>链接：https://pan.baidu.com/s/1PBWfjfYvQnfILSy1lo59eA<br>
+提取码：g3j5</p>
 ]]></content>
     </entry>
     <entry>
