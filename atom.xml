@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muilti.github.io</id>
     <title>Mikko</title>
-    <updated>2020-10-01T03:47:47.260Z</updated>
+    <updated>2020-10-01T21:55:05.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://muilti.github.io"/>
     <link rel="self" href="https://muilti.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://muilti.github.io/images/avatar.png</logo>
     <icon>https://muilti.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mikko</rights>
+    <entry>
+        <title type="html"><![CDATA[后来]]></title>
+        <id>https://muilti.github.io/post/hou-lai/</id>
+        <link href="https://muilti.github.io/post/hou-lai/">
+        </link>
+        <updated>2020-10-01T21:50:49.000Z</updated>
+        <content type="html"><![CDATA[<p>后来你不在逢人就掏自己的心、<br>
+你开始计较付出和回报成不成正比，<br>
+在意的那个人值不值得，在很多眼里<br>
+你变得很成熟也很自私，<br>
+好消息是你学会了爱自己，<br>
+坏消息是你很难再爱别人了、</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[壹心理，隐性抑郁筛查for小孙空空]]></title>
         <id>https://muilti.github.io/post/yi-xin-li-yin-xing-yi-yu-shai-cha-for-xiao-sun-kong-kong/</id>
