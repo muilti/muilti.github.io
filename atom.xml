@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muilti.github.io</id>
     <title>Mikko</title>
-    <updated>2020-10-14T13:06:39.469Z</updated>
+    <updated>2020-10-14T14:37:26.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://muilti.github.io"/>
     <link rel="self" href="https://muilti.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://muilti.github.io/images/avatar.png</logo>
     <icon>https://muilti.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mikko</rights>
+    <entry>
+        <title type="html"><![CDATA[我，真的好像融入这个世界！]]></title>
+        <id>https://muilti.github.io/post/wo-zhen-de-hao-xiang-rong-ru-zhe-ge-shi-jie/</id>
+        <link href="https://muilti.github.io/post/wo-zhen-de-hao-xiang-rong-ru-zhe-ge-shi-jie/">
+        </link>
+        <updated>2020-10-14T13:39:35.000Z</updated>
+        <content type="html"><![CDATA[<p>··················怎么说呢，我真的厌倦了上班，出门保持好心态，保持微笑了，一个人在房间里面，没有人能看见我，我也看不见别人的日子虽然觉得这种生活挺枯燥，但是或许我已经习惯了吧，感觉自己患上抑郁症也有将近3年了吧，记得两年前和我妈说过这种事，但是但凡患有抑郁症的人和身边的人说自己得了抑郁症的时候，他们或许都觉得自己是矫情了吧，闲的想太多了吧，那次被我妈骂了之后，我就再也没和身边的人说过关于这方面的事了，毕竟说出口别人都不理解你，反而嘲讽过来。今年20 了 16岁便没读书 了，那是觉得母亲太辛苦了，打两份工供我上学，其实我成绩挺不好的，后来便辍学了。<br>
+我这个人从小到大也没啥朋友有的也是小学认识的算是关系好一点的同学吧，现在工作一个人在武汉除了工作上的同事外基本是啥朋友了哈哈，我还是真的失败呢。电话不会响起，微信QQ不会响起，没人联系我，当然借钱的除外，，<br>
+想过自杀，但是想到死后母亲的绝望，又忍住了，这个想法忍了两年了，真怕哪天冲动了，毕竟一个生活，没人慰问，没人关心，过得怎么样也没人知道，或许我就是死了，也应该不会有人知道吧，自己根本就没有被这个世界所需要，也不知道这样的日子还要持续多久，真的好像快点结束掉我这一生啊。。。。<br>
+再放假的时候准备去一趟医院，仅仅做个诊断而已，没想过要治疗，因为我真的放弃了。我没有啥梦想，也没有啥追求，没有活下的理由，如果真有说一个话，那就是我还有家人不想她们难过，仅仅为了她们而已。真的好想像正常人一样活着啊。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[后来]]></title>
         <id>https://muilti.github.io/post/hou-lai/</id>
